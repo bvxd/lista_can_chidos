@@ -7,6 +7,8 @@ https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?PlaylistM3UCL
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="368" tvg-name="Santa Maria TV" tvg-logo="https://www.m3u.cl/logo/368_Santa_Maria_TV.png", Santa Maria TV | CL
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="207" tvg-name="Orbe 21" tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg", Orbe 21 | AR
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="874" tvg-name="Cristovision" tvg-logo="https://www.m3u.cl/logo/874_Cristovision.jpg", Cristovision | CO
 https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia | VE
