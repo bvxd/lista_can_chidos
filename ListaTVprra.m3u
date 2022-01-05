@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:1679,EWTN El Canal Catolico
+#EXTINF:-1,EWTN El Canal Catolico
 http://ewtvlive5-live.hls.adaptive.level3.net/manifests/ewtvlive5-live/live.m3u8
-#EXTINF:1679,Maria Vision
-rtsp://74.63.97.188:1935/mariavision1/videomariavision1/
+#EXTINF:-1 tvg-id="368" tvg-name="Santa Maria TV" tvg-logo="https://www.m3u.cl/logo/368_Santa_Maria_TV.png", Santa Maria TV | CL
+https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:1679,ESNE TV El Sembrador
 http://198.154.228.82:1935/live/esnetv/playlist.m3u8
 #EXTINF:1679,Radio Peregrinos del Amor
