@@ -11,9 +11,5 @@ https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
 https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="187" tvg-name="Tele Familia" tvg-logo="https://www.m3u.cl/logo/187_Tele_Familia.png", Tele Familia | CO
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png", La 2 | ES
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
-#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png", Canal 13 | CL
-https://cl-canal13-13now-live.ned.media/live.m3u8?PlaylistM3UCL
