@@ -1,69 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1,EWTN El Canal Catolico
-http://ewtvlive5-live.hls.adaptive.level3.net/manifests/ewtvlive5-live/live.m3u8
+*** CATOLICOS ***
+#EXTINF:-1 tvg-id="872" tvg-name="ESNE" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
+https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="368" tvg-name="Santa Maria TV" tvg-logo="https://www.m3u.cl/logo/368_Santa_Maria_TV.png", Santa Maria TV | CL
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:1679,ESNE TV El Sembrador
-http://198.154.228.82:1935/live/esnetv/playlist.m3u8
-#EXTINF:1679,Radio Peregrinos del Amor
-http://stream1.servercristianonetwork.com:8006
-#EXTINF:1679,DIMI Radio
-http://stream1.servercristianonetwork.com:8164
-#EXTINF:1679,Radio Vaticana
-http://www.vaticanradio-us.org/webcasting/ispanoamerica_1_1.mp3
-#EXTINF:1679,Guadalupe Radio
-http://208.80.53.110:32920
-#EXTINF:1679,Radio Maria Mexico
-http://50.7.98.234:9996/;*.nsv
-#EXTINF:1679,Radio Maria El Salvador
-http://50.7.181.186:8098/
-#EXTINF:1679,ESNE Radio
-http://216.69.177.82:8090/
-#EXTINF:1679,Radio SEPA
-http://stream1.servercristianonetwork.com:8002
-#EXTINF:1679,Radio Catolica Mundial
-http://http.yourmuze.com/ewtn-sp/mp3-64-m.mp3
-#EXTINF:1679,Radio Fe y Caridad
-http://s2.voscast.com:7712
-
-#!! OTROS
-#EXTINF:1679,Canal conocimiento
-mms://148.234.13.58/canal53bandaancha
-#EXTINF:1679,Guatevision
-rtmp://bravo967.sysvirtuales.com/live/stream2.sdp
-#EXTINF:1679,Quiero musica en mi idioma
-mms://streamqm.uigc.net/qmusica
-#EXTINF:1679,VIVE TV
-mmsh://difusion.cantv.net/vhost-covetel_live
-#EXTINF:1679,Alfa TV Malaga (Adventistas)
-rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
-#EXTINF:1679,Televicentro Nicaragua
-rtsp://Televicentro1.serverroom.us/Televicentro
-#EXTINF:1679,Canal Once
-rtsp://www.oncetvmexicolive.tv:1935/livepkgr2/int3
-#EXTINF:1679,BBC UK Radio
-http://www.bbc.co.uk/worldservice/meta/tx/nb/live/eneuk.asx
-#EXTINF:1679,CNN Turquia
-http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-
-
-#EXTINF:1679,CBN
-mmsh://live1.cbn.org/iptv1
-#EXTINF:1679,Nasa 1
-rtsp://163.205.10.21:8080/encoder/nasatv-cc.rm
-#EXTINF:1679,Al Jazeera
-rtsp://77.36.61.40:554/aljazeera.sdp
-#EXTINF:1679,Music TV
-mmsh://streaming.cmusic.tv/cmusicworld-tv
-#EXTINF:1679,Russia Today 320px
-http://odna.octoshape.net/f3f5m2v4/cds/ch1_320p/playlist.m3u8
-#EXTINF:1679,Russia Today 480px
-http://odna.octoshape.net/f3f5m2v4/cds/ch1_480p/playlist.m3u8
-#EXTINF:1679,Russia Today 720px
-http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/playlist.m3u8
-
-#EXTINF:1679,Enlace 1
-rtsp://212-133/livestream.com:8080/
-#EXTINF:1679,Enlace 2
-rtsp://212-125/livestream.com:8080/
+#EXTINF:-1 tvg-id="874" tvg-name="Cristovision" tvg-logo="https://www.m3u.cl/logo/874_Cristovision.jpg", Cristovision | CO
+https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia | VE
+http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="187" tvg-name="Tele Familia" tvg-logo="https://www.m3u.cl/logo/187_Tele_Familia.png", Tele Familia | CO
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png", La 2 | ES
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png", Canal 13 | CL
+https://cl-canal13-13now-live.ned.media/live.m3u8?PlaylistM3UCL
