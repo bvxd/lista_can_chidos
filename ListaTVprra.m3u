@@ -591,7 +591,7 @@ https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Canales Rep. Dominicana" tvg-id="740" tvg-name="Telecanal 28" tvg-logo="https://www.m3u.cl/logo/740_Telecanal_28.jpg", Telecanal 28 | DO
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Canales Rep. Dominicana" tvg-id="741" tvg-name="Telecentro" tvg-logo="https://www.m3u.cl/logo/741_Telecentro.png", Telecentro | DO
-http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8?PlaylistM3UCL
+https://playback.akamaized.net/streams/28126860_9438854_lsipri25kqad4xpnp5m_1/media/28126860_9438854_lsipri25kqad4xpnp5m_1@2128000p.m3u8?dw=14400&ts=1643364000&hdnts=exp=1643537411~acl=/streams/28126860_9438854_lsipri25kqad4xpnp5m_1/media*~hmac=fab05c76519ac6922c1f745b2dbd05849e1309053203ed8cd43bed112c4eccd1
 #EXTINF:-1 group-title="Canales Rep. Dominicana" tvg-id="742" tvg-name="Telecibao" tvg-logo="https://www.m3u.cl/logo/742_Telecibao.jpg", Telecibao | DO
 https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Canales Rep. Dominicana" tvg-id="743" tvg-name="Telefuturo" tvg-logo="https://www.m3u.cl/logo/743_Telefuturo.png", Telefuturo | DO
