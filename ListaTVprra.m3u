@@ -371,7 +371,7 @@ http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FUEL TV HD 
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2587&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="ESPN DEPORTES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png", ESPN DEPORTES HD
-http://iptvactivador.online:25461/09marzo/gratism3u/5085
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="REDBULL TV", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
