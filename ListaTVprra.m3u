@@ -190,7 +190,8 @@ https://edge-live32-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc
 https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(15).png", ANIME HD
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=a315&deviceDNT=0&deviceModel=0&already_redirected=true
-
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/1024px-Simpsons_tv_icon.svg.png", LOS SIMPSONS TV
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CrAFL8VY6C2DRzFMmBA4kT6xeZpqbjMpIUColLg_qCRZX8Os3RpwsPLSwx4gYLdQr10ojoUVgy7837qSCUOBSQW67rPS10dIgKZjGStUMhn09q1JqGwVryim0QSBnSY3svnqWcndDIPvRa7at-AWa_WAXpOXqecidHHOebPMNWXciIRXcnd3i5WQSQuMZBtlVWk0SDyA_txbnNaD6524qDIx3iHZFTSneUFJ4sGDepR_rqaZrTbpA0xEMaIt4IjuCD6UqSpYmIRTBaH9DtXqdy-ZY8fSggcWWwz29ItQQz0lZdPiaSd0BTjhNDnslhBqy0e0pl2dHTqpX59vuAlFwwg66GahaNyXmTvXg94n683E7xLXm_1LaiSLpYick5fK28HpIWe9JG3uovOK1o7zvmjWV6EJNigpKd2Aixl-59e49tXA_RagzK-lbyCl2tmPiT3LdxtygXKUc3nXR6uELRbtU6AM3X-Hipz5ECZ9gSkP1LwWKI5LadwZ0nAW4bk7kioi59v8Pxdsd5CT-oVhMuA5hgEHcGp1f0yMPHM11LS0h-JHRTimlJHg2VUvuiILi3xHe-fxgoMRqcChYNjR6GNiiAda_4qBj6OXe1QVKWxiqKdjgMgzBF67Ck8Bxb09YPZUU5y6LQE5lWAm6btkxcby8d4SdP3Or58JVu31As6jrz5ZBK9yJPJh9HoyhrE6dLzOwo-f3Z2lWU0NE3RSng2v5B9R11-KaqKHLDakNE_IV9M6EyutV8Q9RnTA-NFNMzOW3E9GJeeDXdaXdbeTM01PjxmzPlCwyYEulI7Eh7B1G0X-ETJXxJSGefhjumqrGUwtXhSu_0muO8vfCI7pjkxIc1kCHjo0JQnVfp-vKbWGr0TyI3HuyWRZm-dx0h7d8lPJYTIwd7Rn_xed_ln7c_biNxoMHeJfMSLCU6wBAF3wIAEqCWV1LXdlc3QtMjD3Ag.m3u8
 #EXTINF:-1, DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, BOOMERANG
