@@ -182,7 +182,8 @@ http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=331&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, CARTOON NETWORK
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=112&p=3&k=srregio&f=.m3u8  
-
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(36).png", DISNEY CHANNEL 2
+http://190.92.92.30:8000/play/a0jo/index.m3u8
 #EXTINF:-1, DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, BOOMERANG
@@ -363,7 +364,8 @@ http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2157&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FUEL TV HD 
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2587&p=3&k=srregio&f=.m3u8 
-
+#EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="ESPN DEPORTES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png", ESPN DEPORTES HD
+http://iptvactivador.online:25461/09marzo/gratism3u/5085
 *** CULTURALES ***
 #EXTINF:-1, DISCOVERY ID
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2376&p=3&k=srregio&f=.m3u8  
