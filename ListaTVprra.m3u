@@ -475,6 +475,8 @@ http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2091&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2402&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="77" tvg-name="RT ESPAÑOL" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/LOGO(99XD).png", RT ESPAÑOL
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="ESPN DEPORTES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png", ESPN DEPORTES
+http://192.99.19.55:25461/live/ssskoko/3lCrkbJsv/2.m3u8
 
 *** LOCALES MEXICO TV ***
 #EXTINF:-1 group-title="TV LOCAL ESTADOS DE MEXICO" tvg-id="651" tvg-name="TVP Culiacan" tvg-logo="https://www.m3u.cl/logo/651_TVP_Culiacan.png", TVP Culiacan | MX
