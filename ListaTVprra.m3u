@@ -302,8 +302,10 @@ http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=69&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=71&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, GLITZ
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=76&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, GOURMET 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(94).png", GOURMET 
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=74&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(94).png", GOURMET HD
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1, FOX LIFE
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=77&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, DISTRITO COMEDIA SD
