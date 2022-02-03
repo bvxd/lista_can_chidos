@@ -182,6 +182,8 @@ http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=331&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, CARTOON NETWORK
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=112&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(36).png", DISNEY CHANNEL 2
+http://190.92.92.30:8000/play/a0jo/index.m3u8
 #EXTINF:-1, DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, BOOMERANG
