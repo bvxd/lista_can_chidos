@@ -336,7 +336,7 @@ http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=340&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=341&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, UNICABLE
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=1499&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MAS CHIC
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(93).png", MAS CHIC
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=1842&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(93).png", MAS CHIC HD
 https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02.m3u8
