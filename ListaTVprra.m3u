@@ -378,8 +378,6 @@ http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2157&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FUEL TV HD 
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=2587&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="ESPN DEPORTES HD" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png", ESPN DEPORTES HD
-https://live.telelatinohd.com/hls/ms148e8mxraxmpll/15_.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="REDBULL TV", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
