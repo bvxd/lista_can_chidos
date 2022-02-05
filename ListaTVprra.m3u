@@ -223,7 +223,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=124&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=126&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, TCM
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=128&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="CINE" tvg-logo="",, SPACE
+#EXTINF:-1 group-title="CINE" tvg-logo="", SPACE
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=129&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="", SPACE HD
 http://m3u.iptvla.xyz/usuarios/src1/SpaceHD/Fanstv/uC2.m3u8
