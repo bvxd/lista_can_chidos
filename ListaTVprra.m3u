@@ -209,8 +209,8 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=3112&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=81&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, DE PELICULA + 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=121&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="", DE PELICULA PLUS HD
-http://channel-depeliculaplus-cdn.blim.com/playlist.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="", DE PELICULA PLUS
+https://channel-depeliculaplus-cdn.blim.com/playlist.m3u8
 #EXTINF:-1, GOLDEN +
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=122&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, GOLDEN
