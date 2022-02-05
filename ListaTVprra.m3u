@@ -26,7 +26,7 @@ http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png", La 2 | ES
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
 
-*** TELEVISA ***
+*** TV ABIERTA ***
 
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MAGIC KIDS
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
@@ -54,13 +54,13 @@ https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7.2
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
@@ -68,7 +68,7 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", CANAL 26 AGUASCALIENTES
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
@@ -90,12 +90,14 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1934&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=3315&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, AZTECA 7.3 (CLASES)
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=3316&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, AZTECA UNO HD
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", AZTECA UNO HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZ CLIC HD
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", AZ CLIC HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=11&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", LAS ESTRELLAS
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=17&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", LAS ESTRELLAS -2HRS
+http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94566.m3u8
 #EXTINF:-1, CANAL 5
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=20&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, AZTECA 7
@@ -104,7 +106,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=21&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=24&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, ONCE
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=25&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, AZTECA UNO
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", AZTECA UNO
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=27&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, MEXIQUENSE TV
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=44&p=3&k=srregio&f=.m3u8
@@ -112,7 +114,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=44&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=70&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, AZ MUNDO
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=84&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, AZTECA 7 HD 
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", AZTECA 7 HD 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=317&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, AZTECA 7 HD (2)
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=322&p=3&k=srregio&f=.m3u8  
@@ -124,13 +126,13 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2305&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=401&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, MULTIMEDIOS CDMX
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1253&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, NU9VE HD
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", NU9VE HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1783&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, LAS ESTRELLAS HD
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", LAS ESTRELLAS HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1784&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CANAL 5 HD (2)
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", CANAL 5 HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1785&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ONCE HD 
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", ONCE HD 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1942&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, MVS TV
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2149&p=3&k=srregio&f=.m3u8  
@@ -150,7 +152,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2324&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2331&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, MULTIMEDIOS CDMX
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2352&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, IMAGEN TV HD  
+#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", IMAGEN TV HD  
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2606&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, ACADEMIA
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2703&p=3&k=srregio&f=.m3u8  
@@ -165,25 +167,23 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2882&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=108&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, DISCOVERY KIDS
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=109&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, NICK
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(74).png", NICK
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=331&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DISNEY XD
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(47).png", DISNEY XD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CARTOON NETWORK
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(15).png", CARTOON NETWORK
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=112&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(47).png", DISNEY XD USA
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYXD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(47).png", DISNEY XD HD
-https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02.m3u8
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYXD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(36).png", DISNEY CHANNEL HD
-https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02.m3u8
+https://edge-live32-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(15).png", CARTOON NETWORK HD
 https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/1024px-Simpsons_tv_icon.svg.png", LOS SIMPSONS TV
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1878934069.m3u8
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(74).png", NICK HD USA
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(74).png", NICK HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1, DISNEY CHANNEL
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(36).png", DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, BOOMERANG
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=115&p=3&k=srregio&f=.m3u8 
@@ -201,8 +201,10 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1984&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2147&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, NAT GEO KIDS  
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, BIT ME  
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="", BIT ME  
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2591&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(84).png", TEEN NICK
+http://s1.iptv66.tv/live/1870256194682/1870256194682/316.ts
 
 *** CINE ***
 #EXTINF:-1, A3CINE 
@@ -264,7 +266,10 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1729&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FOX CLASSICS SD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1732&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, AZ CINEMA 
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1787&p=3&k=srregio&f=.m3u8 
+http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1787&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="", AZ CINEMA HD
+http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94510.m3u8
+
 
 *** ENTRETENIMIENTO ***
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
@@ -303,8 +308,6 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=77&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, DISTRITO COMEDIA SD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=78&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(47).png", DISTRITO COMEDIA HD
-https://channel-distritocomedia-cdn.blim.com/playlist.m3u8
 #EXTINF:-1, TRUTV
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=79&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, TL NOVELAS SD
@@ -377,8 +380,10 @@ http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94547.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FUEL TV HD 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2587&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="REDBULL TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(96).png", REDBULL TV
+#EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="REDBULL TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(97).png", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(97).png" group-title="DEPORTES", NBC Golf HD
+http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94534.m3u8
 
 *** CULTURALES ***
 #EXTINF:-1, DISCOVERY ID
@@ -425,7 +430,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2594&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=211&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, MTV
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=212&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MTV HITS SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(72).png" group-title="MUSICA", MTV HITS SD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=213&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, VH1 CLASSIC SD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=214&p=3&k=srregio&f=.m3u8 
@@ -440,7 +445,11 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=221&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, AZ CLIC
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=223&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, VH1 HD
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=334&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=334&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(72).png" group-title="MUSICA", MTV HITS HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHITS/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(71).png" group-title="MUSICA", MTV 80s
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/VH1CLASSIC/__op/hls-default/__f/index.m3u8
 
 
 *** NOTICIAS ***
