@@ -181,6 +181,8 @@ https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02
 https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/1024px-Simpsons_tv_icon.svg.png", LOS SIMPSONS TV
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1878934069.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(74).png", NICK HD USA
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1, DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, BOOMERANG
@@ -337,7 +339,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=167&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, ESPN 2
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=168&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(61).png", ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(61).png" group-title="DEPORTES", ESPN
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=169&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN HD
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
@@ -365,6 +367,8 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2089&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2148&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, TVC DEPORTES
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2157&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(91).png" group-title="DEPORTES", TVC Deportes HD
+http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94547.m3u8
 #EXTINF:-1, CLARO SPORTS HD  
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FUEL TV HD 
