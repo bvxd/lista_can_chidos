@@ -300,7 +300,9 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1, FOX LIFE
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=77&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, DISTRITO COMEDIA SD
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=78&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=78&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(47).png", DISTRITO COMEDIA HD
+https://channel-distritocomedia-cdn.blim.com/playlist.m3u8
 #EXTINF:-1, TRUTV
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=79&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, TL NOVELAS SD
