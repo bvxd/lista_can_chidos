@@ -263,7 +263,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1726&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1729&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FOX CLASSICS SD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1732&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZ CINEMA 
+#EXTINF:-1 group-title="CINE" tvg-logo="", AZ CINEMA 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1787&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="", AZ CINEMA HD
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94510.m3u8
@@ -378,7 +378,7 @@ http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94547.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FUEL TV HD 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2587&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="REDBULL TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(97).png", REDBULL TV
+#EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="REDBULL TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(96).png", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(97).png" group-title="DEPORTES", NBC Golf HD
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94534.m3u8
