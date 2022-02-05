@@ -365,7 +365,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1799&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2089&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, HAVOC
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2148&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TVC DEPORTES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(91).png" group-title="DEPORTES", TVC DEPORTES
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2157&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(91).png" group-title="DEPORTES", TVC Deportes HD
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94547.m3u8
@@ -373,7 +373,7 @@ http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94547.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FUEL TV HD 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2587&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="REDBULL TV" tvg-logo="" , REDBULL TV
+#EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="REDBULL TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(96).png", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 *** CULTURALES ***
