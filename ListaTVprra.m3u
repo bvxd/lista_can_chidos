@@ -105,9 +105,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=24&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, ONCE
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=25&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, AZTECA UNO
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=27&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, TELEFORMULA SD
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=32&p=3&k=srregio&f=.m3u8 
+http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=27&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, MEXIQUENSE TV
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=44&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, AZ CORAZON 
@@ -158,8 +156,6 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2606&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2703&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, MULTIMEDIOS HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2882&p=3&k=srregio&f=.m3u8  
-
-
 
 
 
@@ -484,6 +480,10 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2091&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2402&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="77" tvg-name="RT ESPAÑOL" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/LOGO(99XD).png", RT ESPAÑOL
 https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", TELEFORMULA HD
+https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", TELEFORMULA SD
+http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=32&p=3&k=srregio&f=.m3u8 
 
 
 *** LOCALES MEXICO TV ***
