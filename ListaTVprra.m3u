@@ -337,17 +337,17 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8
 *** DEPORTES ***
 #EXTINF:-1, ESPN + 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=167&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ESPN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(61).png" group-title="DEPORTES", ESPN 2
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=168&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(61).png" group-title="DEPORTES", ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=169&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN HD
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
-#EXTINF:-1, FOX SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(41).png" group-title="DEPORTES", FOX SPORTS
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX SPORTS 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(2).png" group-title="DEPORTES", FOX SPORTS 2
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=172&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, TUDN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(20).png" group-title="DEPORTES", TUDN
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=174&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FOX SPORTS 3 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=178&p=3&k=srregio&f=.m3u8  
@@ -357,7 +357,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=179&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=180&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, ESPN 3 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=345&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, TUDN HD (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(20).png" group-title="DEPORTES", TUDN HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1049&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, ADRENALINA SPORTS HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1799&p=3&k=srregio&f=.m3u8  
@@ -373,7 +373,7 @@ http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94547.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FUEL TV HD 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2587&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="REDBULL TV", REDBULL TV
+#EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="REDBULL TV" tvg-logo="" , REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 *** CULTURALES ***
