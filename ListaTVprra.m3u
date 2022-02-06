@@ -683,7 +683,5 @@ https://ss4.domint.net:3004/yv_str/yunavision/playlist.m3u8?PlaylistM3UCL
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Canales Rep. Dominicana" tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://www.m3u.cl/logo/1058_Spectrum_Channel.png", Spectrum Channel | CL
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Canales Rep. Dominicana" tvg-id="1059" tvg-name="Digital Canal 15" , Digital Canal 15 | CL
-https://playback.akamaized.net/streams/28126860_9438854_lsipri25kqad4xpnp5m_1/media/28126860_9438854_lsipri25kqad4xpnp5m_1@2128000p.m3u8?dw=14400&ts=1643364000&hdnts=exp=1643537411~acl=/streams/28126860_9438854_lsipri25kqad4xpnp5m_1/media*~hmac=fab05c76519ac6922c1f745b2dbd05849e1309053203ed8cd43bed112c4eccd1
-#EXTINF:-1 tvg-id="Digital15.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/15_republica_dominicana-mediano.png" group-title="Canales Rep. Dominicana",Digital 15 (1080p)
+#EXTINF:-1 tvg-id="Digital15.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/15_republica_dominicana-mediano.png" group-title="Canales Rep. Dominicana", Digital 15
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
