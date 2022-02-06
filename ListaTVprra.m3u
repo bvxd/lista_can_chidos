@@ -183,10 +183,10 @@ https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1878934069.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(36).png", DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(09).png", BOOMERANG US, BOOMERANG
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(9).png", BOOMERANG US
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=115&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(09).png", BOOMERANG US
-https://h1.ustvgo.la/Boomerang/myStream/chunks.m3u8?nimblesessionid=192828828&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjIgNzowMTo0NSBBTSZoYXNoX3ZhbHVlPVluS1oxOEVrN2lmZVQwMWt4anVRcXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(9).png", BOOMERANG US
+https://h1.ustvgo.la/Boomerang/myStream/chunks.m3u8
 #EXTINF:-1, BABY TV 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, NICK JR
