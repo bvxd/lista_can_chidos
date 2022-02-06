@@ -384,6 +384,8 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2587&p=3&k=srregio&f=.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(97).png" group-title="DEPORTES", NBC Golf HD
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94534.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(98).png" group-title="DEPORTES", BILLIARD TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
 
 *** CULTURALES ***
 #EXTINF:-1, DISCOVERY ID
