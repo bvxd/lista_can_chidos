@@ -165,7 +165,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=108&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=109&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(74).png", NICK
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=331&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-id="Canal Disney XD" group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(47).png", DISNEY XD
+#EXTINF:-1 tvg-id="disney_xd" group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(47).png", Canal Disney XD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(15).png", CARTOON NETWORK
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=112&p=3&k=srregio&f=.m3u8  
