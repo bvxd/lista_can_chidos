@@ -30,7 +30,7 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?
 
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", EL CHAVO TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(100).png" group-title="Lista TV" tvg-id="Lista TV", EL CHAVO TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", DREIKO TV
 http://regioplay.xyz/php/SR_REGIO_402022_/dreiko.php?f=.m3u8
