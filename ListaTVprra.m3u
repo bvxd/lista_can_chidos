@@ -28,8 +28,6 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?
 
 *** TV ABIERTA ***
 
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MAGIC KIDS
-https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ENERGEEK
 https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", EL CHAVO TV
@@ -72,17 +70,15 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", ANIMAX
-https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
 *** NACIONALES ***
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", CANAL 22.1
+#EXTINF:-1 tvg-id="22" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(101).png" group-title="TV ABIERTA", CANAL 22.1
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w584702862_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjIgMTA6NDE6MDcgQU0maGFzaF92YWx1ZT1YUzI2aFdyd0tzOEV6R2JyNWRWQkN3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", CANAL 22.2
+#EXTINF:-1 tvg-id="23" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(102).png" group-title="TV ABIERTA", CANAL 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjIgMTA6NDg6MTkgQU0maGFzaF92YWx1ZT1EZHBYbFRuOXdIR1c5S1JBSGMySmVnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1, CORAZON
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1934&p=3&k=srregio&f=.m3u8 
@@ -90,13 +86,13 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1934&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=3315&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, AZTECA 7.3 (CLASES)
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=3316&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", AZTECA UNO HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(25).png" group-title="TV ABIERTA", AZTECA UNO HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", AZ CLIC HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(43).png" group-title="TV ABIERTA", AZ CLIC HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=11&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", LAS ESTRELLAS
+#EXTINF:-1 tvg-id="2" tvg-logo="" group-title="TV ABIERTA", LAS ESTRELLAS
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=17&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", LAS ESTRELLAS -2HRS
+#EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(11).png" group-title="TV ABIERTA", LAS ESTRELLAS -2HRS
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94566.m3u8
 #EXTINF:-1, CANAL 5
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=20&p=3&k=srregio&f=.m3u8 
@@ -114,25 +110,25 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=44&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=70&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, AZ MUNDO
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=84&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", AZTECA 7 HD 
+#EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(33).png" group-title="TV ABIERTA", AZTECA 7 HD 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=317&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, AZTECA 7 HD (2)
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=322&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, IMAGEN TV  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(59).png" group-title="TV ABIERTA", IMAGEN TV  
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2298&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MULTIMEDIOS MTY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(13).png" group-title="TV ABIERTA", MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2305&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, APREDNE TV
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=401&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MULTIMEDIOS CDMX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(13).png" group-title="TV ABIERTA", MULTIMEDIOS CDMX
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1253&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", NU9VE HD
+#EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(13).png" group-title="TV ABIERTA", NU9VE HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1783&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", LAS ESTRELLAS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(11).png" group-title="TV ABIERTA", LAS ESTRELLAS HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1784&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", CANAL 5 HD
+#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(64).png" group-title="TV ABIERTA", CANAL 5 HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1785&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV ABIERTA", ONCE HD 
+#EXTINF:-1 tvg-id="11" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(104).png" group-title="TV ABIERTA", ONCE HD 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1942&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, MVS TV
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2149&p=3&k=srregio&f=.m3u8  
@@ -146,7 +142,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2307&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2312&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, A+ 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2316&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, TVMAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(92).png" group-title="TV ABIERTA", TVMAS
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2324&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, CANAL DEL CONGRESO
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2331&p=3&k=srregio&f=.m3u8  
@@ -187,9 +183,9 @@ https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1878934069.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(36).png", DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, BOOMERANG
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(09).png", BOOMERANG US, BOOMERANG
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=115&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(36).png", BOOMERANG US
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(09).png", BOOMERANG US
 https://h1.ustvgo.la/Boomerang/myStream/chunks.m3u8?nimblesessionid=192828828&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjIgNzowMTo0NSBBTSZoYXNoX3ZhbHVlPVluS1oxOEVrN2lmZVQwMWt4anVRcXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1, BABY TV 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8  
