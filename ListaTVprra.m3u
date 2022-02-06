@@ -189,6 +189,8 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, BOOMERANG
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=115&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(36).png", BOOMERANG US
+https://h1.ustvgo.la/Boomerang/myStream/chunks.m3u8?nimblesessionid=192828828&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjIgNzowMTo0NSBBTSZoYXNoX3ZhbHVlPVluS1oxOEVrN2lmZVQwMWt4anVRcXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1, BABY TV 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, NICK JR
@@ -205,8 +207,8 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2147&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2373&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="", BIT ME  
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2591&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(84).png", TEEN NICK
-http://s1.iptv66.tv/live/1870256194682/1870256194682/316.ts
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(84).png", TEEN NICK HD
+http://tv.teleclub.xyz/live/HLS_01/TEEN_NICK/index.m3u8
 
 *** CINE ***
 #EXTINF:-1, A3CINE 
@@ -349,7 +351,11 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=168&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=169&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN 2 HD
+http://tv.teleclub.xyz/live/HLS_01/ESPN2_MX/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(2).png" group-title="DEPORTES", FOX SPORTS 2 HD
+http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS2_MX/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(41).png" group-title="DEPORTES", FOX SPORTS
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(2).png" group-title="DEPORTES", FOX SPORTS 2
@@ -396,8 +402,10 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=75&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=86&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, ANIMAL PLANET
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2378&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, HISTORY
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=89&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(88).png", HISTORY
+http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=89&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(88).png", HISTORY 2
+http://tv.teleclub.xyz/live/HLS_01/H2/index.m3u8
 #EXTINF:-1, NAT GEO  
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=91&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, NAT GEO WILD
