@@ -122,7 +122,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2305&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=401&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(13).png" group-title="TV ABIERTA", MULTIMEDIOS CDMX
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1253&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(13).png" group-title="TV ABIERTA", NU9VE HD
+#EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(109).png" group-title="TV ABIERTA", NU9VE HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1783&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(11).png" group-title="TV ABIERTA", LAS ESTRELLAS HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1784&p=3&k=srregio&f=.m3u8  
