@@ -86,7 +86,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1934&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=3315&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, AZTECA 7.3 (CLASES)
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=3316&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(25).png" group-title="TV ABIERTA", AZTECA UNO HD
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(25).png" group-title="TV ABIERTA", AZTECA UNO HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(43).png" group-title="TV ABIERTA", AZ CLIC HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=11&p=3&k=srregio&f=.m3u8 
