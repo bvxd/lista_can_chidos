@@ -76,7 +76,7 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
 *** NACIONALES ***
-#EXTINF:-1 tvg-id="22" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(101).png" group-title="TV ABIERTA", CANAL 22.1
+#EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(101).png" group-title="TV ABIERTA", CANAL 22.1
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w584702862_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjIgMTA6NDE6MDcgQU0maGFzaF92YWx1ZT1YUzI2aFdyd0tzOEV6R2JyNWRWQkN3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-id="23" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(102).png" group-title="TV ABIERTA", CANAL 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjIgMTA6NDg6MTkgQU0maGFzaF92YWx1ZT1EZHBYbFRuOXdIR1c5S1JBSGMySmVnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
@@ -211,10 +211,8 @@ http://tv.teleclub.xyz/live/HLS_01/TEEN_NICK/index.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=3112&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, TBS SD  
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=81&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, DE PELICULA + 
+#EXTINF:-1 tvg-id="DePeliculaClasico.mx" group-title="CINE" tvg-logo="", DE PELICULA + 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=121&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="", DE PELICULA PLUS
-https://channel-depeliculaplus-cdn.blim.com/playlist.m3u8
 #EXTINF:-1, GOLDEN +
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=122&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, GOLDEN
@@ -408,17 +406,17 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=75&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=86&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, ANIMAL PLANET
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2378&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(88).png", HISTORY
+#EXTINF:-1 tvg-id="HistoryLatinoamerica.us" group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(88).png", HISTORY
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=89&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(88).png", HISTORY 2
+#EXTINF:-1 tvg-id="History2Latinoamerica.us" group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(118).png", HISTORY 2
 http://tv.teleclub.xyz/live/HLS_01/H2/index.m3u8
-#EXTINF:-1, NAT GEO  
+#EXTINF:-1 tvg-id="NationalGeographicNorte.us" group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(75).png", NAT GEO  
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=91&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, NAT GEO WILD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=92&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, DISCOVERY THEATER
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=95&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, H&H
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinoamerica.us" group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(117).png", H&H
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=96&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, TLC
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=97&p=3&k=srregio&f=.m3u8
