@@ -388,12 +388,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94534.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(98).png" group-title="DEPORTES", BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Latin American Sports
-http://latino-webtv.ml:86/8456/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN DEPORTES
-https://list.iptvcat.com/my_list/s/d3b96aa8068e6ed98a26ca6ef184c47e.m3u8
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66568?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", MLB NETWORK
-https://list.iptvcat.com/my_list/s/8b6f2f27e5a821e551efbe05a3299826.m3u8
+http://38.143.137.105:8080/Greene/Greene/7873?checkedby:iptvcat.com
 
 *** CULTURALES ***
 #EXTINF:-1, DISCOVERY ID
