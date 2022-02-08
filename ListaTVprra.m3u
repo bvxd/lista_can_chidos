@@ -593,7 +593,7 @@ http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Canales Rep. Dominicana" tvg-id="749" tvg-name="Teleradio Norte" tvg-logo="https://www.m3u.cl/logo/749_Teleradio_Norte.jpg", Teleradio Norte | DO
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Canales Rep. Dominicana" tvg-id="752" tvg-name="Teleuniverso Canal 29" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png", Teleuniverso Canal 29 | DO
+#EXTINF:-1 group-title="Canales Rep. Dominicana" tvg-id="Teleuniverso.do" tvg-name="Teleuniverso Canal 29" tvg-logo="https://www.m3u.cl/logo/752_Teleuniverso_Canal_29.png", Teleuniverso Canal 29 | DO
 https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Canales Rep. Dominicana" tvg-id="755" tvg-name="Televisión del Este" tvg-logo="https://www.m3u.cl/logo/755_Television_del_Este.png", Televisión del Este | DO
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
