@@ -171,21 +171,17 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=111&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=112&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-id="DisneyXDSurPlus1.us" group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(47).png", DISNEY XD HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYXD/__op/hls-default/__f/index.m3u8
-#EXTINF:0 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(36).png", DISNEY CHANNEL 2
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(15).png", CARTOON NETWORK HD
 https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
-#EXTINF:0 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(15).png", CARTOON NETWORK 2
-https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/1024px-Simpsons_tv_icon.svg.png", LOS SIMPSONS TV
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1878934069.m3u8
 #EXTINF:-1 tvg-id="NickelodeonSur.us" group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(74).png", NICK HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelMexico.us" group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(36).png", DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=113&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(9).png", BOOMERANG
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(9).png", CARTOONITO
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=115&p=3&k=srregio&f=.m3u8 
-#EXTINF:0 tvg-country="UK" group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(9).png", BOOMERANG UK
+#EXTINF:0 tvg-id="BoomerangUK.us" tvg-country="UK" group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(9).png", BOOMERANG UK
 http://vmp343.ddnsking.com:80/pari/pari/548952?checkedby:iptvcat.com
 #EXTINF:-1, BABY TV 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=116&p=3&k=srregio&f=.m3u8  
