@@ -3,13 +3,13 @@
 *** CATOLICOS ***
 #EXTINF:-1 tvg-id="872" tvg-name="ESNE" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
 https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
+#EXTINF:-1 tvg-id="EWTNEspanaLatinoamerica.us" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="368" tvg-name="Santa Maria TV" tvg-logo="https://www.m3u.cl/logo/368_Santa_Maria_TV.png", Santa Maria TV | CL
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="207" tvg-name="Orbe 21" tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg", Orbe 21 | AR
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="Orbe 21" tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg", Orbe 21 | AR
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="208" tvg-name="María Visión" tvg-logo="https://es.wikipedia.org/wiki/Mar%C3%ADa_Visi%C3%B3n#/media/Archivo:Maria-vision.jpg", Maria Vision | MX
+#EXTINF:-1 tvg-id=""MariaPlusVision.mx"" tvg-name="María Visión" tvg-logo="https://es.wikipedia.org/wiki/Mar%C3%ADa_Visi%C3%B3n#/media/Archivo:Maria-vision.jpg", Maria Vision | MX
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="209" tvg-name="Maria Vision USA" tvg-logo="https://es.wikipedia.org/wiki/Mar%C3%ADa_Visi%C3%B3n#/media/Archivo:Maria-vision.jpg", Maria Vision | US
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:PALMIAMI/playlist.m3u8
@@ -338,7 +338,7 @@ https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8 
 
 *** DEPORTES ***
-#EXTINF:-1, ESPN + 
+#EXTINF:-1 tvg-id="ESPNExtraAmericaLatina.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN+
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=167&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(61).png" group-title="DEPORTES", ESPN 2
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=168&p=3&k=srregio&f=.m3u8  
@@ -348,17 +348,19 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=169&p=3&k=srregio&f=.m3u8
 http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN 2 HD
 http://tv.teleclub.xyz/live/HLS_01/ESPN2_MX/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(111).png" group-title="DEPORTES", ESPN DEPORTES
+#EXTINF:0 tvg-id="ESPNDeportes.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(111).png" group-title="DEPORTES", ESPN DEPORTES
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/677142?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(2).png" group-title="DEPORTES", FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="FoxSports2Mexico.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(2).png" group-title="DEPORTES", FOX SPORTS 2 HD
 http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS2_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(41).png" group-title="DEPORTES", FOX SPORTS
+#EXTINF:-1 tvg-id="FoxSportsMexico.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(49).png" group-title="DEPORTES", FOX SPORTS
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=170&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(2).png" group-title="DEPORTES", FOX SPORTS 2
+#EXTINF:-1 tvg-id="FoxSportsMexico.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(49).png" group-title="DEPORTES", FOX SPORTS HD
+http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS_MX/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2Mexico.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(2).png" group-title="DEPORTES", FOX SPORTS 2
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=172&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(20).png" group-title="DEPORTES", TUDN
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(20).png" group-title="DEPORTES", TUDN
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=174&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX SPORTS 3 
+#EXTINF:-1 tvg-id="FoxSports3Mexico.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(40).png" group-title="DEPORTES", FOX SPORTS 3 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=178&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, GOLF
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=179&p=3&k=srregio&f=.m3u8  
@@ -386,9 +388,9 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2587&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="78" tvg-name="REDBULL TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(96).png", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(97).png" group-title="DEPORTES", NBC Golf HD
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(97).png" group-title="DEPORTES", NBC Golf HD
 http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94534.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(98).png" group-title="DEPORTES", BILLIARD TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(98).png" group-title="DEPORTES", BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
 #EXTINF:0 tvg-id="MLBNetwork.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(112).png" group-title="DEPORTES", MLB NETWORK
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/14402?checkedby:iptvcat.com
