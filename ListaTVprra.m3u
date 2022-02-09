@@ -280,7 +280,7 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=57&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=59&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FX
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=60&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, A&E
+#EXTINF:-1 tvg-id="AELatinoamerica.us" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(94).png", A&E
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=62&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, AXN
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=64&p=3&k=srregio&f=.m3u8  
@@ -334,7 +334,7 @@ https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8 
 
 *** DEPORTES ***
-#EXTINF:-1 tvg-id="ESPNExtraAmericaLatina.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN+
+#EXTINF:-1 tvg-id="ESPNExtraAmericaLatina.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(37).png" group-title="DEPORTES", ESPN EXTRA
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=167&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(61).png" group-title="DEPORTES", ESPN 2
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=168&p=3&k=srregio&f=.m3u8  
@@ -473,9 +473,9 @@ http://iptvsmarters.icu:25461/68dygl.,/mMsB56ekEj/24546?checkedby:iptvcat.com
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=4&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FOROTV SD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=19&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ADN40
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(22).png" group-title="TV ABIERTA", ADN40
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=40&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ADN 40 HD
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(22).png" group-title="TV ABIERTA", ADN 40 HD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=184&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, CNN
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=185&p=3&k=srregio&f=.m3u8  
