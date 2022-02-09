@@ -296,9 +296,9 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=71&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=76&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-id="ElGourmetSur.ar" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(94).png", GOURMET 
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="ElGourmetSur.ar" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(94).png", GOURMET HD 
+#EXTINF:-1 tvg-id="ElGourmetSur.ar" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(132).png", GOURMET HD 
 http://gtv23.xyz:80/rossi/rossi/176315.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="ElGourmetSur.ar" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(94).png", GOURMET 2
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(133).png", GOURMET | PLEX TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1, FOX LIFE
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=77&p=3&k=srregio&f=.m3u8  
@@ -332,7 +332,9 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=341&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1499&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-id="MasChicLatinoamerica.us" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(93).png", MAS CHIC
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=1842&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-id="MasChicLatinoamerica.us" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(93).png", MAS CHIC HD
+#EXTINF:0 tvg-id="MasChicLatinoamerica.us" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(93).png", MAS CHIC HD
+http://gtv23.xyz:80/rossi/rossi/176329.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="MasChicLatinoamerica.us" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(134).png", MAS CHIC | PLEX TV
 https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02.m3u8
 #EXTINF:-1, A3SERIES
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8 
