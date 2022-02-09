@@ -1,7 +1,7 @@
 #EXTM3U
 
 *** CATOLICOS ***
-#EXTINF:-1 tvg-id="872" tvg-name="ESNE" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
+#EXTINF:-1 tvg-id="KDOCDT2.us" tvg-name="ESNE" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
 https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="EWTNEspanaLatinoamerica.us" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
@@ -350,7 +350,7 @@ http://tv.teleclub.xyz/live/HLS_01/ESPN_MX/index.m3u8
 http://tv.teleclub.xyz/live/HLS_01/ESPN2_MX/index.m3u8
 #EXTINF:0 tvg-id="ESPNDeportes.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(111).png" group-title="DEPORTES", ESPN DEPORTES
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/677142?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="FoxDeportes.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(2).png" group-title="DEPORTES", FOX DEPORTES HD
+#EXTINF:0 tvg-id="FoxDeportes.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(127).png" group-title="DEPORTES", FOX DEPORTES HD
 http://gtv23.xyz:80/rossi/rossi/220415.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="FoxSports2Mexico.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(2).png" group-title="DEPORTES", FOX SPORTS 2 HD
 http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS2_MX/index.m3u8
@@ -396,7 +396,7 @@ http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94534.m3u8
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
 #EXTINF:0 tvg-id="MLBNetwork.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(112).png" group-title="DEPORTES", MLB NETWORK
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/14402?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(130).png" group-title="Undefined", MLB Strike Zone
+#EXTINF:0 tvg-id="MLBStrikeZone.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(130).png" group-title="DEPORTES", MLB Strike Zone
 http://gtv23.xyz:80/rossi/rossi/176145.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(106).png" group-title="DEPORTES", EUROSPORT 1 
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10101?checkedby:iptvcat.com
