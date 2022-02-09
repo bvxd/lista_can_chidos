@@ -283,7 +283,9 @@ http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=60&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-id="AELatinoamerica.us" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(123).png", A&E
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=62&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-id="AXNLatinoamerica.us" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(126).png", AXN
-http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=64&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=64&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-id="AXNLatinoamerica.us" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(126).png", AXN HD
+http://tv.teleclub.xyz/live/HLS_01/AXN/index.m3u8
 #EXTINF:-1, UNICABLE SD
 http://regioplay.xyz/php/SR_REGIO_402022_/tpa.php?c=66&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, SUNDANCE TV
