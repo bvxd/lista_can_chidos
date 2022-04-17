@@ -236,9 +236,13 @@ http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=126&=f.m3u8
 #EXTINF:-1, TCM
 http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=128&=f.m3u8  
 #EXTINF:-1, SPACE
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=129&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=129&=f.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="", SPACE HD
+http://new-pro.tv:8080/Fernando/123321/72593?checkedby:iptvcat.com
 #EXTINF:-1, AMC 
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=131&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=131&=f.m3u8 
+#EXTINF:-1 tvg-id="AMCMexico.us" group-title="CINE" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(124).png", AMC HD
+http://new-pro.tv:8080/Fernando/123321/72495?checkedby:iptvcat.com
 #EXTINF:-1, STUDIO UNIVERSAL
 http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=132&=f.m3u8  
 #EXTINF:-1, I SAT  
@@ -308,7 +312,9 @@ http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=76&=f.m3u8
 #EXTINF:-1, GOURMET 
 http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=74&=f.m3u8
 #EXTINF:-1, FOX LIFE
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=77&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=77&=f.m3u8 
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" tvg-logo="", DISTRITO COMEDIA HD 
+http://new-pro.tv:8080/Fernando/123321/72553?checkedby:iptvcat.com
 #EXTINF:-1, DISTRITO COMEDIA SD
 http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=78&=f.m3u8  
 #EXTINF:-1, TRUTV
@@ -549,9 +555,9 @@ http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94534.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(98).png" group-title="DEPORTES", BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
 #EXTINF:0 tvg-id="MLBNetwork.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(112).png" group-title="DEPORTES", MLB NETWORK
-http://stariptv.org:8080/wael2021/123456/148503?checkedby:iptvcat.com
+http://new-pro.tv:8080/Fernando/123321/216119?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="MLBStrikeZone.us" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(130).png" group-title="DEPORTES", MLB Strike Zone
-http://gtv23.xyz:80/rossi/rossi/176145.m3u8?checkedby:iptvcat.com
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNDerOc00Wf-GAO2oOXCIoY/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="5e66968a70f34c0007d050be" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(131).png" group-title="DEPORTES", MLB
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
 
@@ -560,5 +566,5 @@ http://stariptv.org:8080/wael2021/123456/34053?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(107).png" group-title="DEPORTES", EUROSPORT 2
 http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/53660?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="BoxNation.uk" tvg-country="UK" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(108).png" group-title="DEPORTES", UK BOX NATION
-http://gtv23.xyz:80/50005000/50005000/189910.m3u8?checkedby:iptvcat.com
+http://fortv.cc:8080/alphonso/alphonso/53716?checkedby:iptvcat.com
  
