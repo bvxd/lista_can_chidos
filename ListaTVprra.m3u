@@ -341,11 +341,11 @@ http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8
 
 *** DEPORTES ***
 #EXTINF:-1 tvg-id="ESPNExtraAmericaLatina.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(37).png" group-title="DEPORTES", ESPN EXTRA
-http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=167&p=3&k=srregio&f=.m3u8 
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=167&=f.m3u8
 #EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(61).png" group-title="DEPORTES", ESPN 2
-http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=168&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=169&=f.m3u8  
 #EXTINF:-1 tvg-id="ESPNMexico.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN
-http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=169&p=3&k=srregio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=168&=f.m3u8  
 #EXTINF:-1 tvg-id="ESPNMexico.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN HD
 http://tv.teleclub.xyz/live/MARZO_01/ESPN_MX/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(46).png" group-title="DEPORTES", ESPN 2 HD
