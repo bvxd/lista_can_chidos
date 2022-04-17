@@ -111,9 +111,9 @@ http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=70&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, AZ MUNDO
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=84&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(33).png" group-title="TV ABIERTA", AZTECA 7 HD 
-http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=317&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=317&=f.m3u8  
 #EXTINF:-1, AZTECA 7 HD (2)
-http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=322&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=322&=f.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(59).png" group-title="TV ABIERTA", IMAGEN TV  
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=2298&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(13).png" group-title="TV ABIERTA", MULTIMEDIOS MTY
