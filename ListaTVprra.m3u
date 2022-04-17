@@ -200,7 +200,9 @@ http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=111&=f.m3u8
 #EXTINF:-1, CARTOON NETWORK
 http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=112&=f.m3u8  
 #EXTINF:-1, DISNEY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=113&=f.m3u8  
+http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=113&=f.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelMexico.us" group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(36).png", DISNEY CHANNEL HD
+http://new-pro.tv:8080/Fernando/123321/72550?checkedby:iptvcat.com
 #EXTINF:-1, BOOMERANG
 http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=115&=f.m3u8 
 #EXTINF:-1, BABY TV 
@@ -419,6 +421,8 @@ http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=198&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=1943&=f.m3u8 
 #EXTINF:-1, FOOD NETWORK 
 http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2145&=f.m3u8 
+#EXTINF:-1, FOOD NETWORK HD
+http://new-pro.tv:8080/Fernando/123321/72564?checkedby:iptvcat.com
 #EXTINF:-1, STAR TVE 
 http://regioplay.xyz/php/SR_REGIO_514022_/nuevotp.php?c=2375&=f.m3u8 
 #EXTINF:-1, DISCOVERY TURBO
