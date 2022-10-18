@@ -1,7 +1,7 @@
 #EXTM3U
 *** CATOLICOS ***
 #EXTINF:-1 tvg-id="KDOCDT2.us" tvg-name="ESNE" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1666174597~acl=%2f*~data=hdntl~hmac=c5caa31c9717b1d05b02b1dce0eab0261a23e33e2dc1bc86819071162e247712/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=634e7c6a0f30100001c5836a&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1666174442%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Da0267d133fae57c42ad9f32f4e972f890165729f18692fc0811ca976b6075008
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1666174597~acl=%2f*~data=hdntl~hmac=c5caa31c9717b1d05b02b1dce0eab0261a23e33e2dc1bc86819071162e247712/chunklist.m3u8
 #EXTINF:-1 tvg-id="EWTNEspanaLatinoamerica.us" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="368" tvg-name="Santa Maria TV" tvg-logo="https://www.m3u.cl/logo/368_Santa_Maria_TV.png", Santa Maria TV | CL
