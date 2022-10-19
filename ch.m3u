@@ -19,7 +19,11 @@ https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="Orbe 21" tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg", Orbe 21 | AR
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Cristovision.co" tvg-name="Cristovision" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(95).png", Cristovision| CO
- https://videostreaming.cloudserverlatam.com/htbbgdnudk/htbbgdnudk/chunklist_w405304708.m3u8
+https://videostreaming.cloudserverlatam.com/htbbgdnudk/htbbgdnudk/chunklist_w405304708.m3u8
+https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
+https://liveingesta118.cdnmedia.tv//cristovisionlive/smil:live.smil/playlist.m3u8
+https://player.instantvideocloud.net//cristovisionlive/smil:live.smil/playlist.m3u8
+https://player.instantvideocloud.net/cristovisionlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png", La 2 | ES
