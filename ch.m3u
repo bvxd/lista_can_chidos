@@ -72,7 +72,7 @@ https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="EstrellaNews.us" tvg-name="Estrella News" tvg-logo="https://i.imgur.com/f4Bec0i.png", ESTRELLA NEWS | US
 https://estrellanews-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="EstrellaGames.us" tvg-name="Estrella Games" tvg-logo="https://i.imgur.com/f4Bec0i.png", ESTRELLA GAMES | US
+#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="EstrellaGames.us" tvg-name="Estrella Games" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(157).png", ESTRELLA GAMES | US
 https://estrella-games-oando.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png", La 2 | ES
 https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr_1080.m3u8
