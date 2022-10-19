@@ -1,6 +1,6 @@
 #EXTM3U
 *** CATOLICOS ***
-#EXTINF:-1 group-title="CATOLICOS" tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
+#EXTINF:-1 group-title="CATOLICOS" tvg-id="KDOCDT2.us" tvg-name="KDOC-DT2" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=634f2478eed8d400018a095c&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1666217464%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D66cd1ebcecdc984288af2bc8829cd3187faf9b979a670119f0ad691458ae4b9a
 #EXTINF:-1 group-title="CATOLICOS" tvg-id="EWTNEspanaLatinoamerica.us" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | MX
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
