@@ -1,34 +1,35 @@
 #EXTM3U
 *** CATOLICOS ***
-#EXTINF:-1 tvg-id="KDOCDT2.us" tvg-name="ESNE" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
+#EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=634f2478eed8d400018a095c&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1666217464%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D66cd1ebcecdc984288af2bc8829cd3187faf9b979a670119f0ad691458ae4b9a
-#EXTINF:-1 tvg-id="EWTNEspanaLatinoamerica.us" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
+#EXTINF:-1 tvg-id="EWTNEspanaLatinoamerica.us" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | MX
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id=""MariaPlusVision.mx"" tvg-name="María Visión" tvg-logo="https://es.wikipedia.org/wiki/Mar%C3%ADa_Visi%C3%B3n#/media/Archivo:Maria-vision.jpg", Maria Vision | MX
+#EXTINF:-1 tvg-id="MariaVision.mx" tvg-name="Maria Vision" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(66).png", Maria Vision | MX
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
-#EXTINF:-1 tvg-id="209" tvg-name="Maria Vision USA" tvg-logo="https://es.wikipedia.org/wiki/Mar%C3%ADa_Visi%C3%B3n#/media/Archivo:Maria-vision.jpg", Maria Vision | US
+#EXTINF:-1 tvg-id="" tvg-name="Maria Vision USA" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(69).png", Maria Vision | US
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:PALMIAMI/playlist.m3u8
-#EXTINF:-1 tvg-id="210" tvg-name="Maria Vision Estrella del Pilar" tvg-logo="https://es.wikipedia.org/wiki/Mar%C3%ADa_Visi%C3%B3n#/media/Archivo:Maria-vision.jpg", Maria Vision 2 | MX
+#EXTINF:-1 tvg-id="" tvg-name="Maria Vision Estrella del Pilar" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(66).png", Maria Vision | ES
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiatre/playlist.m3u8
-#EXTINF:-1 tvg-id="211" tvg-name="Maria Vision Medjugorje" tvg-logo="https://es.wikipedia.org/wiki/Mar%C3%ADa_Visi%C3%B3n#/media/Archivo:Maria-vision.jpg", Maria Vision Medjugorje | BH
+#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba" tvg-name="Maria+Vision Medjugorje" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(68).png", Maria Vision Medjugorje | BH
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
-#EXTINF:-1 tvg-id="212" tvg-name="Maria Vision Italia" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(67).png", Maria Vision Italia| IT
+#EXTINF:-1 tvg-id="" tvg-name="Maria Vision Italia" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(67).png", Maria Vision Italia| IT
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
-#EXTINF:-1 tvg-id="368" tvg-name="Santa Maria TV" tvg-logo="https://www.m3u.cl/logo/368_Santa_Maria_TV.png", Santa Maria TV | CL
+#EXTINF:-1 tvg-id="SantaMariaTelevision.cl" tvg-name="Santa Maria TV" tvg-logo="https://www.m3u.cl/logo/368_Santa_Maria_TV.png", Santa Maria TV | CL
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="Orbe 21" tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg", Orbe 21 | AR
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Cristovision.co" tvg-name="Cristovision" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(95).png", Cristovision| CO
 https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/.m3u8
 https://liveingesta118.cdnmedia.tv//cristovisionlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/cristovisionlive/live-1500/chunklist.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png", La 2 | ES
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTINF:-1 group-title="TDT" tvg-id="Canal26.mx" tvg-name="Canal 26" tvg-logo="https://diretelemexico.com/wp-content/uploads/2021/10/Canal-26-TV-Aguascalientes-en-vivo.png", 26 AGS
+#EXTINF:-1 group-title="TDT" tvg-id="Canal26.mx" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Canal-26-TV-Aguascalientes-en-vivo.png", 26 AGS
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 group-title="TDT" tvg-id="RTQQueretaro.mx" tvg-name="RTQ Queretaro" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png", RTQ
+#EXTINF:-1 group-title="TDT" tvg-id="RTQQueretaro.mx" tvg-name="RTQ Queretaro" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Logo-RTQ-BLanco-1.png", RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w1782480037.m3u8
 
 
