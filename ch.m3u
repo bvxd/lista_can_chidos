@@ -34,23 +34,29 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="Azteca7MexicoCity.mx" tvg-name="Azteca 7 Mexico City" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(33).png", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="Azteca7MexicoCity.mx" tvg-name="Azteca 7 Mexico City" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(33).png", AZTECA 7 HD
+https://stream.oursnetworktv.com/latin/SRTC/chunklist_w1699167015.m3u8?WebM3UCL
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="APlus.mx" tvg-name="A+" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(125).png", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 group-title="Otros Canales" tvg-id="ADN40.mx" tvg-name="ADN 40" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(22).png", ADN40
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="ADN40.mx" tvg-name="ADN 40" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(22).png", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="KCNSDT4.us" tvg-name="KCNS-DT4" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(147).png", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="PresumiendoMexico.mx" tvg-name="Presumiendo Mexico" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(149).png", Presumiendo Mexico
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="MilenioTelevision.mx" tvg-name="Milenio Television" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(151).jpg", Milenio Television
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="QuieroTV.mx" tvg-name="Quiero TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Logo-quiero.png", Quiero TV
+https://stream.oursnetworktv.com/latin/SRTC/chunklist_w1699167015.m3u8?WebM3UCL
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="PresumiendoMexico.mx" tvg-name="Presumiendo Mexico" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(149).jpg", Presumiendo Mexico
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="RTQQueretaro.mx" tvg-name="RTQ Queretaro" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Logo-RTQ-BLanco-1.png", RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w1782480037.m3u8
-#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TVPCuliacan.mx" tvg-name="TVP Culiacan" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png", TVP Culiacan | MX
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="JaliscoTV.mx" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(150).png", Jalisco TV 
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TVPCuliacan.mx" tvg-name="TVP Culiacan" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png", TVP Culiacan
 https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TVPLosMochis.mx" tvg-name="TVP Los Mochis" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png", TVP Los Mochis | MX
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TVPLosMochis.mx" tvg-name="TVP Los Mochis" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png", TVP Los Mochis
 https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TVP.mx" tvg-name="TVP Mazatlan" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png", TVP Mazatlan | MX
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TVP.mx" tvg-name="TVP Mazatlan" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png", TVP Mazatlan 
 https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TVPObregon.mx" tvg-name="TVP Obregon" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png", TVP Obregon | MX
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TVPObregon.mx" tvg-name="TVP Obregon" tvg-logo="https://i2.paste.pics/c33dbc024d5114273e3ed75df29017e8.png", TVP Obregon 
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(16).png", Claro Sports
@@ -64,6 +70,12 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 *** INTERNACIONALES ***
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/LOGO(99XD).png", RT en Español | RU
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="KCNSDT4.us" tvg-name="KCNS-DT4" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(147).png", ESTRELLA TV | US
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="EstrellaNews.us" tvg-name="Estrella News" tvg-logo="https://i.imgur.com/f4Bec0i.png", ESTRELLA NEWS | US
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="EstrellaGames.us" tvg-name="Estrella Games" tvg-logo="https://i.imgur.com/f4Bec0i.png", ESTRELLA GAMES | US
+https://estrella-games-oando.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png", La 2 | ES
 https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr_1080.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(145).png", PAKA PAKA | AR
