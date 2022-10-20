@@ -1,5 +1,5 @@
 #EXTM3U
-*** CATOLICOS ***
+#*** CATOLICOS ***
 #EXTINF:-1 group-title="CATOLICOS" tvg-id="KDOCDT2.us" tvg-name="KDOC-DT2" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=635096c55adbdd00015f6d99&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1666312261%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Dea4ad94b0e5b6ab037770ea15e200eb53644e88a24051db9c8d79b9700eb06c6
 #EXTINF:-1 group-title="CATOLICOS" tvg-id="EWTNEspanaLatinAmerica.us" tvg-name="EWTN Espana/Latin America" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | MX
@@ -27,7 +27,7 @@ https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZ
 #EXTINF:-1 group-title="CATOLICOS" tvg-id="TreceTV.es" tvg-name="Trece TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(143).png", Trece TV | ES
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
-*** NACIONALES ***
+#*** NACIONALES ***
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="Canal26.mx" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Canal-26-TV-Aguascalientes-en-vivo.png", 26 AGS
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(25).png", AZTECA UNO
@@ -65,7 +65,7 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 
-*** INTERNACIONALES ***
+#*** INTERNACIONALES ***
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/LOGO(99XD).png", RT en Español | RU
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="KCNSDT4.us" tvg-name="KCNS-DT4" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(147).png", ESTRELLA TV | US
@@ -76,14 +76,22 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 https://estrella-games-oando.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png", La 2 | ES
 https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr_1080.m3u8
-#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(145).png", PAKA PAKA | AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
+#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-logo="https://drive.google.com/file/d/1VVRrptTwKLO6Wn_ov9bwtsoxBWAGevY0/view?usp=sharing", ENERGEEK
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-logo="https://drive.google.com/file/d/1NZRqe2hR3qYkjJ5HJI9lJy7edtMS8MA-/view?usp=sharing", ENERGEEK 2
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-logo="https://drive.google.com/file/d/1Axj9qz_QQBzdI2YMUChl7uiH_ip_z1_9/view?usp=sharing", ENERGEEK 3
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTINF:-1  group-title="TDT INTERNACIONALES", LATINO KIDS
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:-1  group-title="TDT INTERNACIONALES", DREIKO TV
+http://regioplay.xyz/php/SR_REGIO_800122_/dreiko.php?f=.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="Digital15.do" tvg-name="Digital 15" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(140).png", Digital 15 | DO
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
 #EXTINF:0 group-title="DEPORTES" tvg-id="MLB.us" tvg-name="MLB" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(131).png", MLB Channel | US
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
+#*** TV DE PAGA ***
 #EXTINF:-1  group-title="DistroRegio" , Top Cine Latam
 https://regioplay.xyz/php/SR_REGIO_800122_/distroregio.php?token=SrRegio&c=top-cine-latam&f=.m3u8
 #EXTINF:-1  group-title="DistroRegio" , Saber mas
@@ -118,28 +126,13 @@ https://regioplay.xyz/php/SR_REGIO_800122_/distroregio.php?token=SrRegio&c=mmc&f
 https://regioplay.xyz/php/SR_REGIO_800122_/distroregio.php?token=SrRegio&c=glewedtv-spanish&f=.m3u8
 
 
-#EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1VVRrptTwKLO6Wn_ov9bwtsoxBWAGevY0/view?usp=sharing", ENERGEEK
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-#EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1NZRqe2hR3qYkjJ5HJI9lJy7edtMS8MA-/view?usp=sharing", ENERGEEK 2
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1Axj9qz_QQBzdI2YMUChl7uiH_ip_z1_9/view?usp=sharing", ENERGEEK 3
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1  group-title="Otros Canales", LATINO KIDS
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-#EXTINF:-1  group-title="Otros Canales", EL CHAVO TV
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1  group-title="Otros Canales", DREIKO TV
-http://regioplay.xyz/php/SR_REGIO_800122_/dreiko.php?f=.m3u8
+
 #EXTINF:-1  group-title="Otros Canales", MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_800122_/multimedios.php?f=.m3u8
 #EXTINF:-1   group-title="Otros Canales", WOW TV
 https://regioplay.xyz/php/SR_REGIO_800122_/wowtv.php?f=.m3u8
 #EXTINF:-1  group-title="Otros Canales", NET TV
 http://regioplay.xyz/php/SR_REGIO_800122_/nettv.php?f=.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="Otros Canales", La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
