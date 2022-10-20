@@ -69,8 +69,6 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 
 #*** INTERNACIONALES ***
-#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/LOGO(99XD).png", RT en Español | RU
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="HolaTVHDLatinAmerica.es" tvg-name="!Hola! TV HD Latin America" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(158).png", HolaTV | ES 
 https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="KCNSDT4.us" tvg-name="KCNS-DT4" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(147).png", ESTRELLA TV | US
@@ -79,20 +77,23 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="EstrellaGames.us" tvg-name="Estrella Games" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(157).png", ESTRELLA GAMES | US
 https://estrella-games-oando.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-logo="https://drive.google.com/file/d/1VVRrptTwKLO6Wn_ov9bwtsoxBWAGevY0/view?usp=sharing", ENERGEEK
+#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="EnerGeek1.cl" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(160).png", ENERGEEK | CL
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
-#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-logo="https://drive.google.com/file/d/1NZRqe2hR3qYkjJ5HJI9lJy7edtMS8MA-/view?usp=sharing", ENERGEEK 2
+#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="EnerGeek2.cl" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(162).png", ENERGEEK 2 | CL
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-logo="https://drive.google.com/file/d/1Axj9qz_QQBzdI2YMUChl7uiH_ip_z1_9/view?usp=sharing", ENERGEEK 3
+#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="EnerGeek3.cl" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(161).png", ENERGEEK 3 | CL
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1  group-title="TDT INTERNACIONALES", LATINO KIDS
+#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="LatinoKids.uy" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(163).png", LATINO KIDS | UY
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-#EXTINF:-1  group-title="TDT INTERNACIONALES", DREIKO TV
+#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="DreikoTV.pa" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(164).png", DREIKO TV | PA
 http://regioplay.xyz/php/SR_REGIO_800122_/dreiko.php?f=.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="Digital15.do" tvg-name="Digital 15" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(140).png", Digital 15 | DO
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
 #EXTINF:0 group-title="DEPORTES" tvg-id="MLB.us" tvg-name="MLB" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(131).png", MLB Channel | US
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 group-title="DEPORTES" tvg-id="FightSports.us" tvg-name="Fight Sports" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(165).png", FIGHT SPORTS | US
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
+
 
 #*** TV DE PAGA ***
 #EXTINF:-1  group-title="DistroRegio" , Top Cine Latam
