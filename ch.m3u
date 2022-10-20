@@ -41,6 +41,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="MilenioTelevision.mx" tvg-name="Milenio Television" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(151).jpg", Milenio Television
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="QuieroTV.mx" tvg-name="Quiero TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Logo-quiero.png", Quiero TV
+https://stream-04.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOlkJ8U5aN2AFh_RW_CkNjfScWtHVL55W6W4oxw-pFAOy)/dm/3/x8452uw/s/live-0.m3u8#cell=lsv4
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TRCTV.mx" tvg-name="Television y Radio de Campeche" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(159).png", TRC TV
 https://stream.oursnetworktv.com/latin/SRTC/chunklist_w1699167015.m3u8?WebM3UCL
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="PresumiendoMexico.mx" tvg-name="Presumiendo Mexico" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(149).jpg", Presumiendo Mexico
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
