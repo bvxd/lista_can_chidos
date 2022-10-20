@@ -1,12 +1,7 @@
 #EXTM3U
 *** CATOLICOS ***
 #EXTINF:-1 group-title="CATOLICOS" tvg-id="KDOCDT2.us" tvg-name="KDOC-DT2" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1666312672~acl=%2f*~data=hdntl~hmac=489a977af614c6d95c37aac89be868b272a3f0a2bef9be111fd2c3fcfe05597a/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=6350985ead8b670001a87e12
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1666312672~acl=%2f*~data=hdntl~hmac=489a977af614c6d95c37aac89be868b272a3f0a2bef9be111fd2c3fcfe05597a/chunklist.m3u8
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1666312672~acl=%2f*~data=hdntl~hmac=489a977af614c6d95c37aac89be868b272a3f0a2bef9be111fd2c3fcfe05597a/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=6350985ead8b670001a87e12&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1666312670%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D49e83c016ce21100bf6bc62d5c85db51a53862b370fe454631702edf2e651933
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=635096c55adbdd00015f6d99&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1666312261%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Dea4ad94b0e5b6ab037770ea15e200eb53644e88a24051db9c8d79b9700eb06c6
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=635096c55adbdd00015f6d99
-
 #EXTINF:-1 group-title="CATOLICOS" tvg-id="EWTNEspanaLatinAmerica.us" tvg-name="EWTN Espana/Latin America" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | MX
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CATOLICOS" tvg-id="MariaVision.mx" tvg-name="Maria Vision" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(66).png", Maria Vision | MX
