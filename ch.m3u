@@ -28,6 +28,8 @@ https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZ
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
 #*** NACIONALES ***
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="XEIPNTDT.mx" tvg-name="XEIPN-TDT" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(104).png", Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b2131072.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="Canal26.mx" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Canal-26-TV-Aguascalientes-en-vivo.png", 26 AGS
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(25).png", AZTECA UNO
@@ -79,6 +81,8 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="EstrellaGames.us" tvg-name="Estrella Games" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(157).png", ESTRELLA GAMES | US
 https://estrella-games-oando.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="iFoodTV.us" tvg-name="iFood.TV" tvg-logo="https://i.imgur.com/GnmHLNB.png", iFood TV | US
+https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="EnerGeek1.cl" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(160).png", ENERGEEK | CL
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="EnerGeek2.cl" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(162).png", ENERGEEK 2 | CL
