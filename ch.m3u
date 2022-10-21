@@ -104,7 +104,7 @@ https://estrella-games-oando.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="iFoodTV.us" tvg-name="iFood.TV" tvg-logo="https://i.imgur.com/GnmHLNB.png", iFood TV | US
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="ThisOldHouse.us" tvg-name="This Old House" tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png", This Old House | US
-https://d1igp1kv49nlwd.cloudfront.net/amgthisoldhouse/playlistwebvtt.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51e791b7dba3b2ae990ab2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=618&terminate=false&userId=
 #EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="EnerGeek1.cl" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(160).png", ENERGEEK | CL
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="EnerGeek2.cl" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(162).png", ENERGEEK 2 | CL
