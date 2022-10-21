@@ -26,6 +26,7 @@ https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
 #*** NACIONALES ***
+
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="XEIPNTDT.mx" tvg-name="XEIPN-TDT" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(104).png", Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b2131072.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="Canal26.mx" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Canal-26-TV-Aguascalientes-en-vivo.png", 26 AGS
@@ -40,12 +41,26 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="Foro.mx" tvg-name="Foro" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(62).png", Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="MilenioTelevision.mx" tvg-name="Milenio Television" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(151).jpg", Milenio TV
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="QuieroTV.mx" tvg-name="Quiero TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Logo-quiero.png", Quiero TV
 https://stream-04.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOlkJ8U5aN2AFh_RW_CkNjfScWtHVL55W6W4oxw-pFAOy)/dm/3/x8452uw/s/live-0.m3u8#cell=lsv4
 https://stream-01.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvFEdUsfLHpMoT2sOBYHc6LTDkzs-3BOyaustchM5HlP)/dm/3/x8452uw/s/live-2.m3u8
 https://stream-03.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvFEdUsfLHpMoT2sOBYHc6LTDkzs-3BOyaustchM5HlP)/dm/3/x8452uw/s/live-4.m3u8#cell=lsv4
 https://stream-02.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvFEdUsfLHpMoT2sOBYHc6LTDkzs-3BOyaustchM5HlP)/dm/3/x8452uw/s/live-4.m3u8#cell=lsv4
 https://www.dailymotion.com/cdn/live/video/x8452uw.m3u8?sec=3oQ5c4gq8LjFYNYFmKSck-cucWKclTC6IZWagajVCvQnDCvpRGUjpyX6d8yDySKTGfoioFpv5zKw2BJW89U-OA&dmTs=932998&dmV1st=760DB1C8F54EDD250254829C7E8F5A35
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="MultimediosMonterrey.mx" tvg-name="Multimedios Monterrey" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(13).png", Multimedios MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="MultimediosGuadalajara.mx" tvg-name="Multimedios Guadalajara" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(13).png", Multimedios GDL
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TVMas.mx" tvg-name="TVMas" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(13).png", Multimedios GDL
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="XHSPRTDT1.mx" tvg-name="XHSPR-TDT1" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(169).png", Canal Catorce
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/.m3u8
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="Canal22Nacional.mx" tvg-name="Canal 22 Nacional" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(101).png", Canal 22.1
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyMiAxMjoyMTowNyBQTSZoYXNoX3ZhbHVlPU5LY01XV1J5aUQwZi9ycG9rYWdtSWc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0=
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="Canal22Internacional.mx" tvg-name="Canal 22 Internacional" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(102).png", Canal 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyMiAxMjoyMjoyMiBQTSZoYXNoX3ZhbHVlPVZBS1BYeEN3RHhFUStjRmRLUVU2Qnc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0=
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TRCTV.mx" tvg-name="Television y Radio de Campeche" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(159).png", TRC TV
 https://stream.oursnetworktv.com/latin/SRTC/chunklist_w1699167015.m3u8?WebM3UCL
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="PresumiendoMexico.mx" tvg-name="Presumiendo Mexico" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(149).jpg", Presumiendo Mexico
@@ -65,10 +80,16 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(16).png", Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="VideoRola.mx" tvg-name="Video Rola" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(148).png", VIDEO ROLA
+#EXTINF:-1 group-title="MUSICA" tvg-id="VideoRola.mx" tvg-name="Video Rola" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(148).png", VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="KPLRDT4.us" tvg-name="KPLR-DT4" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(136).png", REWIND TV
+#EXTINF:-1 group-title="MUSICA" tvg-id="KPLRDT4.us" tvg-name="KPLR-DT4" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(136).png", REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-id="Vevo80s.us" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg", vevo 80s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA" tvg-id="Vevo70s.us" tvg-name="Vevo '70s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg", vevo 70s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="MUSICA" tvg-id="VevoLatino.us" tvg-name="Vevo Latino" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(138).png", vevo TV
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/782b647b2e38471e80cae5e7bdc3f1dc/live.m3u8
 
 
 #*** INTERNACIONALES ***
@@ -82,6 +103,8 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 https://estrella-games-oando.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="iFoodTV.us" tvg-name="iFood.TV" tvg-logo="https://i.imgur.com/GnmHLNB.png", iFood TV | US
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="ThisOldHouse.us" tvg-name="This Old House" tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png", This Old House | US
+https://d1igp1kv49nlwd.cloudfront.net/amgthisoldhouse/playlistwebvtt.m3u8
 #EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="EnerGeek1.cl" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(160).png", ENERGEEK | CL
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="EnerGeek2.cl" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(162).png", ENERGEEK 2 | CL
