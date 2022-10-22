@@ -108,6 +108,8 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="DreikoTV.pa" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(164).png", DREIKO TV | PA
 http://regioplay.xyz/php/SR_REGIO_800122_/dreiko.php?f=.m3u8
+#EXTINF:-1  group-title="TDT INTERNACIONALES" tvg-id="Animax.jp" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(170).png", Animax | JP
+https://cdnv148.cloudrsst.com/jptv/janimax_720/playlist.m3u8
 #EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="Digital15.do" tvg-name="Digital 15" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(140).png", Digital 15 | DO
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
 #EXTINF:0 group-title="DEPORTES" tvg-id="MLB.us" tvg-name="MLB" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(131).png", MLB Channel | US
