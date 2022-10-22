@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AYM Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aym.jpg" group-title="DEPORTES2",AYM Sports
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=180&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx.m3u8
-
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="MilenioTelevision.mx" tvg-name="Milenio Television" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(151).jpg", Milenio TV
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="QuieroTV.mx" tvg-name="Quiero TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Logo-quiero.png", Quiero TV
+https://stream-01.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvFEdUsfLHpMoT2sOBYHc6LTDkzs-3BOyaustchM5HlP)/dm/3/x8452uw/s/live-2.m3u8
 *** CATOLICOS ***
 #EXTINF:-1 tvg-id="KDOCDT2.us" tvg-name="ESNE" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
 https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-p.m3u8?F38b1dF4=625bf53cb132260001077fb6&6pLKMQ3y=Sqi3Ng90&video_id=5f978263e036f600019f66c2&sd=10&dw=10800&rebase=on&hdntl=exp=1650280126~acl=%2f*%4044045%2f*~data=hdntl~hmac=3bfbf8ccec8a24718b46f08a2b6bbf9efca1fb71b0a52358bea7654d205402e2
