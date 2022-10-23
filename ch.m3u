@@ -49,6 +49,8 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TVMas.mx" tvg-name="TVMas" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(92).png", TV Más
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(92).png", TV Más
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/07.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="XHSPRTDT1.mx" tvg-name="XHSPR-TDT1" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(169).png", Canal Catorce
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="Canal22Nacional.mx" tvg-name="Canal 22 Nacional" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(101).png", Canal 22.1
@@ -73,6 +75,8 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="DEPORTES" tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(16).png", Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="TelePlay.mx" tvg-name="TelePlay" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(171).png", TelePlay
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="VideoRola.mx" tvg-name="Video Rola" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(148).png", VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="KPLRDT4.us" tvg-name="KPLR-DT4" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(136).png", REWIND TV
