@@ -33,6 +33,8 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b2131072.m3u8
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(25).png", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(11).png", LAS ESTRELLAS
+https://channel01dai-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?hdnea=st=1666524905~exp=1666525205~acl=*~id=464714d3-bf45-4715-b227-83c9a392e502~hmac=6642a83103e01858f7276664a319bbc4caa0136c04674ca5e69cd9b1b8921271&originpath=/linear/hls/pa/event/_e1s_U52SCGL6zTnlTrbVQ/stream/c9e1376c-c4bd-4676-97ea-47b9708f8998:BRU/master.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="Azteca7MexicoCity.mx" tvg-name="Azteca 7 Mexico City" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(33).png", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="APlus.mx" tvg-name="A+" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(125).png", A+
