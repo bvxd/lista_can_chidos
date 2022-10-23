@@ -61,6 +61,8 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?w
 https://stream.oursnetworktv.com/latin/SRTC/chunklist_w1699167015.m3u8?WebM3UCL
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="PresumiendoMexico.mx" tvg-name="Presumiendo Mexico" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(149).jpg", Presumiendo Mexico
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TuristikTV.mx" tvg-name="TuristikTV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(149).jpg", Turistik TV
+https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="RTQQueretaro.mx" tvg-name="RTQ Queretaro" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Logo-RTQ-BLanco-1.png", RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w1782480037.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="JaliscoTV.mx" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(150).png", Jalisco TV 
