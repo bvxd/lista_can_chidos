@@ -61,8 +61,10 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?w
 https://stream.oursnetworktv.com/latin/SRTC/chunklist_w1699167015.m3u8?WebM3UCL
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="PresumiendoMexico.mx" tvg-name="Presumiendo Mexico" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(149).jpg", Presumiendo Mexico
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TuristikTV.mx" tvg-name="TuristikTV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(149).jpg", Turistik TV
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="TuristikTV.mx" tvg-name="TuristikTV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(172).jpg", Turistik TV
 https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="DemandAfricaMexico.mx" tvg-name="Demand Africa Mexico" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/DA.png", Demand Africa Mexico
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="RTQQueretaro.mx" tvg-name="RTQ Queretaro" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/Logo-RTQ-BLanco-1.png", RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w1782480037.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="JaliscoTV.mx" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(150).png", Jalisco TV 
@@ -136,6 +138,16 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(96).png", REDBULL TV | AT
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="beINSportsXtraenEspanol.us" tvg-name="beIN Sports Xtra en Espanol" tvg-logo="https://i.imgur.com/ImjhA9L.png", BEIN SPORTS XTRA Ñ | US
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png", DirecTV Sports | AR
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="ElGarageTV.ar" tvg-name="El Garage TV" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(54).png", El Garage TV | AR
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="BBCHome.us" tvg-name="BBC Home" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png", BBC Home | US
+https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8
+#EXTINF:-1 group-title="TDT INTERNACIONALES" tvg-id="BBCFood.us" tvg-name="BBC Food" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png", BBC Food  | US
+https://d386m2lmbakvx4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-maq49n9yo9ui9-prod/playlist.m3u8
 
 
 
