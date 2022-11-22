@@ -33,6 +33,10 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b2131072.m3u8
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(25).png", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="TDT NACIONALES" tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(11).png", Las Estrellas
+https://channel01dai-onlymex.akamaized.net/linear/hls/pa/event/_e1s_U52SCGL6zTnlTrbVQ/stream/9f5d0320-2721-4664-bd62-90f0837ea46f:DUB/variant/ce42eb0cd2e212254ed3554b4684444f/bandwidth/2920544.m3u8?hdntl=exp=1669237999~acl=*~id=ce08e06b-2d38-4848-a3f4-1a5335985c4a~data=hdntl~hmac=353f46d8c8ee51d97bd6f11ef214388c4507f492d95fe702ddb215784b4512ac&
+https://channel01dai-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8?hdnea=st=1669152122~exp=1669152422~acl=*~id=930f475e-6379-42e1-8bee-4b5be4f91404~hmac=113997f41a15ddbda6f8359835df39788b3e3cdaa7f95ca6f5bd4da5963b0c58&originpath=/linear/hls/pa/event/_e1s_U52SCGL6zTnlTrbVQ/stream/6cdb242f-4371-4b90-afb8-7edbc918a343:GRQ/master.m3u8
+
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="Azteca7MexicoCity.mx" tvg-name="Azteca 7 Mexico City" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(33).png", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="TDT NACIONALES" tvg-id="APlus.mx" tvg-name="A+" tvg-logo="https://raw.githubusercontent.com/bvxd/lista_can_chidos/main/logo%20(125).png", A+
